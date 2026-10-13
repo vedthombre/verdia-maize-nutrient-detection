@@ -1,0 +1,455 @@
+{
+  "EfficientNet-B0": {
+    "model": "EfficientNet-B0",
+    "test_accuracy": 0.8428571428571429,
+    "correct_predictions": 59,
+    "total_predictions": 70,
+    "macro_precision": 0.8898327759197325,
+    "macro_recall": 0.8096613190730839,
+    "macro_f1": 0.8247619047619048,
+    "weighted_f1": 0.8371428571428572,
+    "inference_time_seconds": 2.19378662109375,
+    "inference_ms_per_sample": 31.339808872767854,
+    "train_time_seconds": null,
+    "per_class": {
+      "Healthy": {
+        "precision": 1.0,
+        "recall": 0.9090909090909091,
+        "f1_score": 0.9523809523809523,
+        "support": 11
+      },
+      "Magnesium": {
+        "precision": 0.8260869565217391,
+        "recall": 1.0,
+        "f1_score": 0.9047619047619048,
+        "support": 19
+      },
+      "Nitrogen": {
+        "precision": 0.7,
+        "recall": 0.9333333333333333,
+        "f1_score": 0.8,
+        "support": 15
+      },
+      "Phosphorus": {
+        "precision": 0.9230769230769231,
+        "recall": 0.7058823529411765,
+        "f1_score": 0.8,
+        "support": 17
+      },
+      "Potassium": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1_score": 0.6666666666666666,
+        "support": 8
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        19,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        14,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        4,
+        12,
+        0
+      ],
+      [
+        0,
+        1,
+        2,
+        1,
+        4
+      ]
+    ],
+    "test_sample_counts": {
+      "Healthy": 11,
+      "Magnesium": 19,
+      "Nitrogen": 15,
+      "Phosphorus": 17,
+      "Potassium": 8
+    },
+    "exp5_reproducibility": {
+      "reference_accuracy": 0.8428571428571429,
+      "reference_macro_f1": 0.8247619047619048,
+      "reference_weighted_f1": 0.8371428571428572,
+      "accuracy_delta": 0.0,
+      "f1_delta": 0.0,
+      "reproduced": true
+    }
+  },
+  "ResNet18": {
+    "model": "ResNet18",
+    "test_accuracy": 0.8857142857142857,
+    "correct_predictions": 62,
+    "total_predictions": 70,
+    "macro_precision": 0.8747432306255835,
+    "macro_recall": 0.8317201426024956,
+    "macro_f1": 0.8384084542908072,
+    "weighted_f1": 0.8750494743351886,
+    "inference_time_seconds": 2.1001718044281006,
+    "inference_ms_per_sample": 30.002454348972865,
+    "train_time_seconds": 608.1426067352295,
+    "per_class": {
+      "Healthy": {
+        "precision": 1.0,
+        "recall": 0.9090909090909091,
+        "f1_score": 0.9523809523809523,
+        "support": 11
+      },
+      "Magnesium": {
+        "precision": 0.9047619047619048,
+        "recall": 1.0,
+        "f1_score": 0.95,
+        "support": 19
+      },
+      "Nitrogen": {
+        "precision": 0.7777777777777778,
+        "recall": 0.9333333333333333,
+        "f1_score": 0.8484848484848485,
+        "support": 15
+      },
+      "Phosphorus": {
+        "precision": 0.9411764705882353,
+        "recall": 0.9411764705882353,
+        "f1_score": 0.9411764705882353,
+        "support": 17
+      },
+      "Potassium": {
+        "precision": 0.75,
+        "recall": 0.375,
+        "f1_score": 0.5,
+        "support": 8
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        19,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        14,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        16,
+        0
+      ],
+      [
+        0,
+        1,
+        3,
+        1,
+        3
+      ]
+    ],
+    "test_sample_counts": {
+      "Healthy": 11,
+      "Magnesium": 19,
+      "Nitrogen": 15,
+      "Phosphorus": 17,
+      "Potassium": 8
+    }
+  },
+  "SVM": {
+    "model": "SVM",
+    "test_accuracy": 0.8285714285714286,
+    "correct_predictions": 58,
+    "total_predictions": 70,
+    "macro_precision": 0.8709523809523809,
+    "macro_recall": 0.781524064171123,
+    "macro_f1": 0.7957571605958702,
+    "weighted_f1": 0.8195370704356879,
+    "inference_time_seconds": 0.013161420822143555,
+    "inference_ms_per_sample": 0.18802029745919366,
+    "train_time_seconds": null,
+    "per_class": {
+      "Healthy": {
+        "precision": 1.0,
+        "recall": 0.9090909090909091,
+        "f1_score": 0.9523809523809523,
+        "support": 11
+      },
+      "Magnesium": {
+        "precision": 0.9047619047619048,
+        "recall": 1.0,
+        "f1_score": 0.95,
+        "support": 19
+      },
+      "Nitrogen": {
+        "precision": 0.75,
+        "recall": 0.8,
+        "f1_score": 0.7741935483870968,
+        "support": 15
+      },
+      "Phosphorus": {
+        "precision": 0.7,
+        "recall": 0.8235294117647058,
+        "f1_score": 0.7567567567567568,
+        "support": 17
+      },
+      "Potassium": {
+        "precision": 1.0,
+        "recall": 0.375,
+        "f1_score": 0.5454545454545454,
+        "support": 8
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        19,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        12,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        14,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        3,
+        3
+      ]
+    ],
+    "test_sample_counts": {
+      "Healthy": 11,
+      "Magnesium": 19,
+      "Nitrogen": 15,
+      "Phosphorus": 17,
+      "Potassium": 8
+    }
+  },
+  "Random Forest": {
+    "model": "Random Forest",
+    "test_accuracy": 0.8142857142857143,
+    "correct_predictions": 57,
+    "total_predictions": 70,
+    "macro_precision": 0.7951515151515152,
+    "macro_recall": 0.7577624542640022,
+    "macro_f1": 0.7561617110004206,
+    "weighted_f1": 0.7977748493877527,
+    "inference_time_seconds": 0.053827762603759766,
+    "inference_ms_per_sample": 0.768968037196568,
+    "train_time_seconds": null,
+    "per_class": {
+      "Healthy": {
+        "precision": 0.9090909090909091,
+        "recall": 0.9090909090909091,
+        "f1_score": 0.9090909090909091,
+        "support": 11
+      },
+      "Magnesium": {
+        "precision": 0.9,
+        "recall": 0.9473684210526315,
+        "f1_score": 0.9230769230769231,
+        "support": 19
+      },
+      "Nitrogen": {
+        "precision": 0.75,
+        "recall": 0.8,
+        "f1_score": 0.7741935483870968,
+        "support": 15
+      },
+      "Phosphorus": {
+        "precision": 0.75,
+        "recall": 0.8823529411764706,
+        "f1_score": 0.8108108108108109,
+        "support": 17
+      },
+      "Potassium": {
+        "precision": 0.6666666666666666,
+        "recall": 0.25,
+        "f1_score": 0.36363636363636365,
+        "support": 8
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        18,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        12,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        2,
+        15,
+        0
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        2
+      ]
+    ],
+    "test_sample_counts": {
+      "Healthy": 11,
+      "Magnesium": 19,
+      "Nitrogen": 15,
+      "Phosphorus": 17,
+      "Potassium": 8
+    }
+  },
+  "KNN": {
+    "model": "KNN",
+    "test_accuracy": 0.7428571428571429,
+    "correct_predictions": 52,
+    "total_predictions": 70,
+    "macro_precision": 0.7113095238095238,
+    "macro_recall": 0.6973702974012571,
+    "macro_f1": 0.6918925383519794,
+    "weighted_f1": 0.7264076888787414,
+    "inference_time_seconds": 0.027163982391357422,
+    "inference_ms_per_sample": 0.388056891305106,
+    "train_time_seconds": null,
+    "per_class": {
+      "Healthy": {
+        "precision": 0.8333333333333334,
+        "recall": 0.9090909090909091,
+        "f1_score": 0.8695652173913043,
+        "support": 11
+      },
+      "Magnesium": {
+        "precision": 0.75,
+        "recall": 0.9473684210526315,
+        "f1_score": 0.8372093023255814,
+        "support": 19
+      },
+      "Nitrogen": {
+        "precision": 0.6875,
+        "recall": 0.7333333333333333,
+        "f1_score": 0.7096774193548387,
+        "support": 15
+      },
+      "Phosphorus": {
+        "precision": 0.7857142857142857,
+        "recall": 0.6470588235294118,
+        "f1_score": 0.7096774193548387,
+        "support": 17
+      },
+      "Potassium": {
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1_score": 0.3333333333333333,
+        "support": 8
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        18,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        11,
+        0,
+        2
+      ],
+      [
+        1,
+        2,
+        3,
+        11,
+        0
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        2
+      ]
+    ],
+    "test_sample_counts": {
+      "Healthy": 11,
+      "Magnesium": 19,
+      "Nitrogen": 15,
+      "Phosphorus": 17,
+      "Potassium": 8
+    }
+  }
+}

@@ -1,0 +1,71 @@
+image_path,true_class,predicted_class,predicted_probability,true_class_probability,second_predicted_class,second_predicted_probability,correct
+Dataset\Healthy\2.jpeg,Healthy,Healthy,0.9980,0.9980,Potassium,0.0006,True
+Dataset\Healthy\29.jpeg,Healthy,Healthy,0.9882,0.9882,Potassium,0.0050,True
+Dataset\Healthy\30.jpeg,Healthy,Healthy,0.9527,0.9527,Magnesium,0.0167,True
+Dataset\Healthy\31.jpeg,Healthy,Healthy,0.9923,0.9923,Potassium,0.0055,True
+Dataset\Healthy\36.jpeg,Healthy,Healthy,0.9987,0.9987,Potassium,0.0005,True
+Dataset\Healthy\43.jpeg,Healthy,Healthy,0.9916,0.9916,Nitrogen,0.0042,True
+Dataset\Healthy\56.jpeg,Healthy,Healthy,0.8791,0.8791,Nitrogen,0.0579,True
+Dataset\Healthy\64.jpeg,Healthy,Healthy,0.9741,0.9741,Nitrogen,0.0110,True
+Dataset\Healthy\65.jpeg,Healthy,Magnesium,0.4887,0.3124,Healthy,0.3124,False
+Dataset\Healthy\69.jpeg,Healthy,Healthy,0.9955,0.9955,Nitrogen,0.0017,True
+Dataset\Healthy\71.jpeg,Healthy,Healthy,0.9943,0.9943,Nitrogen,0.0033,True
+Dataset\Magnesium\1 (1).jpeg,Magnesium,Magnesium,0.9690,0.9690,Potassium,0.0222,True
+Dataset\Magnesium\1 (102).jpeg,Magnesium,Magnesium,0.9924,0.9924,Healthy,0.0039,True
+Dataset\Magnesium\1 (106).jpeg,Magnesium,Magnesium,0.9218,0.9218,Healthy,0.0739,True
+Dataset\Magnesium\1 (108).jpeg,Magnesium,Magnesium,0.9917,0.9917,Healthy,0.0037,True
+Dataset\Magnesium\1 (12).jpeg,Magnesium,Magnesium,0.9878,0.9878,Nitrogen,0.0075,True
+Dataset\Magnesium\1 (17).jpeg,Magnesium,Magnesium,0.9531,0.9531,Nitrogen,0.0363,True
+Dataset\Magnesium\1 (24).jpeg,Magnesium,Magnesium,0.9968,0.9968,Phosphorus,0.0018,True
+Dataset\Magnesium\1 (28).jpeg,Magnesium,Magnesium,0.9989,0.9989,Phosphorus,0.0005,True
+Dataset\Magnesium\1 (35).jpeg,Magnesium,Magnesium,0.9921,0.9921,Potassium,0.0040,True
+Dataset\Magnesium\1 (41).jpeg,Magnesium,Magnesium,0.9980,0.9980,Nitrogen,0.0009,True
+Dataset\Magnesium\1 (51).jpeg,Magnesium,Magnesium,0.9981,0.9981,Nitrogen,0.0007,True
+Dataset\Magnesium\1 (6).jpeg,Magnesium,Magnesium,0.9931,0.9931,Nitrogen,0.0034,True
+Dataset\Magnesium\1 (60).jpeg,Magnesium,Magnesium,0.9057,0.9057,Nitrogen,0.0412,True
+Dataset\Magnesium\1 (67).jpeg,Magnesium,Magnesium,0.7632,0.7632,Healthy,0.2032,True
+Dataset\Magnesium\1 (74).jpeg,Magnesium,Magnesium,0.9936,0.9936,Healthy,0.0033,True
+Dataset\Magnesium\1 (86).jpeg,Magnesium,Magnesium,0.9971,0.9971,Phosphorus,0.0020,True
+Dataset\Magnesium\1 (89).jpeg,Magnesium,Magnesium,0.9956,0.9956,Phosphorus,0.0025,True
+Dataset\Magnesium\1 (91).jpeg,Magnesium,Magnesium,0.9966,0.9966,Phosphorus,0.0023,True
+Dataset\Magnesium\1 (97).jpeg,Magnesium,Magnesium,0.9959,0.9959,Phosphorus,0.0024,True
+Dataset\Nitrogen\2 (19).jpeg,Nitrogen,Nitrogen,0.9954,0.9954,Potassium,0.0043,True
+Dataset\Nitrogen\2 (23).jpeg,Nitrogen,Magnesium,0.4847,0.3677,Nitrogen,0.3677,False
+Dataset\Nitrogen\2 (26).jpeg,Nitrogen,Nitrogen,0.8268,0.8268,Phosphorus,0.1532,True
+Dataset\Nitrogen\2 (27).jpeg,Nitrogen,Nitrogen,0.9969,0.9969,Potassium,0.0017,True
+Dataset\Nitrogen\2 (30).jpeg,Nitrogen,Nitrogen,0.9960,0.9960,Phosphorus,0.0032,True
+Dataset\Nitrogen\2 (41).jpeg,Nitrogen,Nitrogen,0.9994,0.9994,Potassium,0.0005,True
+Dataset\Nitrogen\2 (49).jpeg,Nitrogen,Nitrogen,0.9998,0.9998,Magnesium,0.0001,True
+Dataset\Nitrogen\2 (59).jpeg,Nitrogen,Nitrogen,1.0000,1.0000,Potassium,0.0000,True
+Dataset\Nitrogen\2 (6).jpeg,Nitrogen,Nitrogen,0.9999,0.9999,Potassium,0.0001,True
+Dataset\Nitrogen\2 (62).jpeg,Nitrogen,Nitrogen,0.9584,0.9584,Potassium,0.0284,True
+Dataset\Nitrogen\2 (72).jpeg,Nitrogen,Nitrogen,0.8314,0.8314,Magnesium,0.1286,True
+Dataset\Nitrogen\2 (75).jpeg,Nitrogen,Nitrogen,0.9798,0.9798,Phosphorus,0.0136,True
+Dataset\Nitrogen\2 (77).jpeg,Nitrogen,Nitrogen,0.9984,0.9984,Potassium,0.0008,True
+Dataset\Nitrogen\2 (91).jpeg,Nitrogen,Nitrogen,0.9979,0.9979,Potassium,0.0011,True
+Dataset\Nitrogen\2 (99).jpeg,Nitrogen,Nitrogen,0.9687,0.9687,Potassium,0.0310,True
+Dataset\Phosphorus\3 (101).jpeg,Phosphorus,Phosphorus,0.9999,0.9999,Nitrogen,0.0000,True
+Dataset\Phosphorus\3 (103).jpeg,Phosphorus,Nitrogen,0.6928,0.2539,Phosphorus,0.2539,False
+Dataset\Phosphorus\3 (113).jpeg,Phosphorus,Phosphorus,0.9931,0.9931,Healthy,0.0041,True
+Dataset\Phosphorus\3 (13).jpeg,Phosphorus,Phosphorus,0.9912,0.9912,Nitrogen,0.0046,True
+Dataset\Phosphorus\3 (18).jpeg,Phosphorus,Phosphorus,0.9986,0.9986,Potassium,0.0006,True
+Dataset\Phosphorus\3 (21).jpeg,Phosphorus,Phosphorus,0.9983,0.9983,Potassium,0.0010,True
+Dataset\Phosphorus\3 (28).jpeg,Phosphorus,Phosphorus,0.9965,0.9965,Magnesium,0.0019,True
+Dataset\Phosphorus\3 (38).jpeg,Phosphorus,Phosphorus,0.9500,0.9500,Nitrogen,0.0244,True
+Dataset\Phosphorus\3 (40).jpeg,Phosphorus,Nitrogen,0.4979,0.4948,Phosphorus,0.4948,False
+Dataset\Phosphorus\3 (42).jpeg,Phosphorus,Nitrogen,0.4174,0.3681,Phosphorus,0.3681,False
+Dataset\Phosphorus\3 (74).jpeg,Phosphorus,Phosphorus,0.9261,0.9261,Potassium,0.0646,True
+Dataset\Phosphorus\3 (83).jpeg,Phosphorus,Phosphorus,0.7538,0.7538,Magnesium,0.1525,True
+Dataset\Phosphorus\3 (84).jpeg,Phosphorus,Phosphorus,0.7389,0.7389,Magnesium,0.1537,True
+Dataset\Phosphorus\3 (85).jpeg,Phosphorus,Phosphorus,0.7662,0.7662,Potassium,0.1206,True
+Dataset\Phosphorus\3 (86).jpeg,Phosphorus,Magnesium,0.7715,0.1371,Phosphorus,0.1371,False
+Dataset\Phosphorus\3 (89).jpeg,Phosphorus,Nitrogen,0.9950,0.0011,Potassium,0.0037,False
+Dataset\Phosphorus\3 (9).jpeg,Phosphorus,Phosphorus,0.9933,0.9933,Magnesium,0.0039,True
+Dataset\Potassium\4 (1).jpeg,Potassium,Magnesium,0.7408,0.0749,Nitrogen,0.1224,False
+Dataset\Potassium\4 (26).jpeg,Potassium,Potassium,0.9430,0.9430,Nitrogen,0.0410,True
+Dataset\Potassium\4 (32).jpeg,Potassium,Nitrogen,0.4065,0.2971,Potassium,0.2971,False
+Dataset\Potassium\4 (36).jpeg,Potassium,Potassium,0.3757,0.3757,Phosphorus,0.3314,True
+Dataset\Potassium\4 (38).jpeg,Potassium,Phosphorus,0.8900,0.0116,Nitrogen,0.0463,False
+Dataset\Potassium\4 (47).jpeg,Potassium,Potassium,0.4195,0.4195,Nitrogen,0.4191,True
+Dataset\Potassium\4 (54).jpeg,Potassium,Nitrogen,0.9335,0.0630,Potassium,0.0630,False
+Dataset\Potassium\4 (7).jpeg,Potassium,Potassium,0.9975,0.9975,Nitrogen,0.0022,True

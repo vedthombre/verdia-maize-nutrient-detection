@@ -1,0 +1,83 @@
+[
+    {
+        "filename": "2.jpeg",
+        "condition": "Correct_Healthy",
+        "true_class": "Healthy",
+        "original_pred": "Healthy",
+        "original_conf": 0.9982994198799133,
+        "masked_pred": "Healthy",
+        "masked_conf": 0.744167685508728
+    },
+    {
+        "filename": "65.jpeg",
+        "condition": "Incorrect_Healthy",
+        "true_class": "Healthy",
+        "original_pred": "Magnesium",
+        "original_conf": 0.5716333389282227,
+        "masked_pred": "Healthy",
+        "masked_conf": 0.7217934131622314
+    },
+    {
+        "filename": "1 (1).jpeg",
+        "condition": "Correct_Magnesium",
+        "true_class": "Magnesium",
+        "original_pred": "Magnesium",
+        "original_conf": 0.9793009757995605,
+        "masked_pred": "Healthy",
+        "masked_conf": 0.5982475280761719
+    },
+    {
+        "filename": "2 (19).jpeg",
+        "condition": "Correct_Nitrogen",
+        "true_class": "Nitrogen",
+        "original_pred": "Nitrogen",
+        "original_conf": 0.8825191259384155,
+        "masked_pred": "Healthy",
+        "masked_conf": 0.6083422303199768
+    },
+    {
+        "filename": "2 (99).jpeg",
+        "condition": "Incorrect_Nitrogen",
+        "true_class": "Nitrogen",
+        "original_pred": "Potassium",
+        "original_conf": 0.4602522850036621,
+        "masked_pred": "Healthy",
+        "masked_conf": 0.43477076292037964
+    },
+    {
+        "filename": "3 (101).jpeg",
+        "condition": "Correct_Phosphorus",
+        "true_class": "Phosphorus",
+        "original_pred": "Phosphorus",
+        "original_conf": 0.9999927282333374,
+        "masked_pred": "Magnesium",
+        "masked_conf": 0.4520859718322754
+    },
+    {
+        "filename": "3 (103).jpeg",
+        "condition": "Incorrect_Phosphorus",
+        "true_class": "Phosphorus",
+        "original_pred": "Nitrogen",
+        "original_conf": 0.5278946757316589,
+        "masked_pred": "Nitrogen",
+        "masked_conf": 0.9041978716850281
+    },
+    {
+        "filename": "4 (26).jpeg",
+        "condition": "Correct_Potassium",
+        "true_class": "Potassium",
+        "original_pred": "Potassium",
+        "original_conf": 0.7499725818634033,
+        "masked_pred": "Nitrogen",
+        "masked_conf": 0.6120372414588928
+    },
+    {
+        "filename": "4 (1).jpeg",
+        "condition": "Incorrect_Potassium",
+        "true_class": "Potassium",
+        "original_pred": "Magnesium",
+        "original_conf": 0.9425316452980042,
+        "masked_pred": "Magnesium",
+        "masked_conf": 0.5591214299201965
+    }
+]

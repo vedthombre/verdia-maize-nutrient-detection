@@ -1,0 +1,81 @@
+{
+  "test_accuracy": 0.8142857142857143,
+  "macro_f1": 0.7576092724479822,
+  "weighted_f1": 0.7935966644722404,
+  "per_class": {
+    "Healthy": {
+      "precision": 0.9090909090909091,
+      "recall": 0.9090909090909091,
+      "f1_score": 0.9090909090909091,
+      "support": 11.0
+    },
+    "Magnesium": {
+      "precision": 0.8260869565217391,
+      "recall": 1.0,
+      "f1_score": 0.9047619047619048,
+      "support": 19.0
+    },
+    "Nitrogen": {
+      "precision": 0.7,
+      "recall": 0.9333333333333333,
+      "f1_score": 0.8,
+      "support": 15.0
+    },
+    "Phosphorus": {
+      "precision": 0.8571428571428571,
+      "recall": 0.7058823529411765,
+      "f1_score": 0.7741935483870968,
+      "support": 17.0
+    },
+    "Potassium": {
+      "precision": 1.0,
+      "recall": 0.25,
+      "f1_score": 0.4,
+      "support": 8.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      10,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      19,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      14,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      3,
+      12,
+      0
+    ],
+    [
+      0,
+      1,
+      3,
+      2,
+      2
+    ]
+  ],
+  "test_sample_counts": {
+    "Healthy": 11,
+    "Magnesium": 19,
+    "Nitrogen": 15,
+    "Phosphorus": 17,
+    "Potassium": 8
+  }
+}

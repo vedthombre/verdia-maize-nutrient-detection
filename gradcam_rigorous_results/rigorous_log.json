@@ -1,0 +1,1752 @@
+[
+    {
+        "index": 0,
+        "filename": "2.jpeg",
+        "true_class": "Healthy",
+        "original": {
+            "pred": "Healthy",
+            "conf": 0.9982994198799133,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.7437136173248291,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.8503209948539734,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Healthy",
+            "conf": 0.9771435260772705,
+            "correct": true
+        }
+    },
+    {
+        "index": 1,
+        "filename": "29.jpeg",
+        "true_class": "Healthy",
+        "original": {
+            "pred": "Healthy",
+            "conf": 0.9734006524085999,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Healthy",
+            "conf": 0.8366787433624268,
+            "correct": true
+        }
+    },
+    {
+        "index": 2,
+        "filename": "30.jpeg",
+        "true_class": "Healthy",
+        "original": {
+            "pred": "Healthy",
+            "conf": 0.6068612337112427,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.8852797150611877,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.8703442215919495,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Healthy",
+            "conf": 0.8361256718635559,
+            "correct": true
+        }
+    },
+    {
+        "index": 3,
+        "filename": "31.jpeg",
+        "true_class": "Healthy",
+        "original": {
+            "pred": "Healthy",
+            "conf": 0.9820963144302368,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.7023804187774658,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.6838352680206299,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Healthy",
+            "conf": 0.9029605388641357,
+            "correct": true
+        }
+    },
+    {
+        "index": 4,
+        "filename": "36.jpeg",
+        "true_class": "Healthy",
+        "original": {
+            "pred": "Healthy",
+            "conf": 0.9861452579498291,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Nitrogen",
+            "conf": 0.43260204792022705,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.4520471394062042,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Healthy",
+            "conf": 0.9371653199195862,
+            "correct": true
+        }
+    },
+    {
+        "index": 5,
+        "filename": "43.jpeg",
+        "true_class": "Healthy",
+        "original": {
+            "pred": "Healthy",
+            "conf": 0.9844071865081787,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Healthy",
+            "conf": 0.9469895958900452,
+            "correct": true
+        }
+    },
+    {
+        "index": 6,
+        "filename": "56.jpeg",
+        "true_class": "Healthy",
+        "original": {
+            "pred": "Healthy",
+            "conf": 0.838385283946991,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Healthy",
+            "conf": 0.5858777761459351,
+            "correct": true
+        }
+    },
+    {
+        "index": 7,
+        "filename": "64.jpeg",
+        "true_class": "Healthy",
+        "original": {
+            "pred": "Healthy",
+            "conf": 0.9950413107872009,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Healthy",
+            "conf": 0.9463937282562256,
+            "correct": true
+        }
+    },
+    {
+        "index": 8,
+        "filename": "65.jpeg",
+        "true_class": "Healthy",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.5716333389282227,
+            "correct": false
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.7668612599372864,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.8678022623062134,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Healthy",
+            "conf": 0.6280401349067688,
+            "correct": true
+        }
+    },
+    {
+        "index": 9,
+        "filename": "69.jpeg",
+        "true_class": "Healthy",
+        "original": {
+            "pred": "Healthy",
+            "conf": 0.9963880777359009,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.7876326441764832,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.7938931584358215,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Healthy",
+            "conf": 0.9130685329437256,
+            "correct": true
+        }
+    },
+    {
+        "index": 10,
+        "filename": "71.jpeg",
+        "true_class": "Healthy",
+        "original": {
+            "pred": "Healthy",
+            "conf": 0.9945685863494873,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.7784947752952576,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.4943196177482605,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Healthy",
+            "conf": 0.9648153185844421,
+            "correct": true
+        }
+    },
+    {
+        "index": 11,
+        "filename": "1 (1).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9793009757995605,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.6021528840065002,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.5082204341888428,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9932886958122253,
+            "correct": true
+        }
+    },
+    {
+        "index": 12,
+        "filename": "1 (102).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9889240860939026,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.5992270112037659,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.5098522901535034,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.8154216408729553,
+            "correct": true
+        }
+    },
+    {
+        "index": 13,
+        "filename": "1 (106).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.6639693379402161,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.8898603916168213,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.9615800380706787,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.8278265595436096,
+            "correct": true
+        }
+    },
+    {
+        "index": 14,
+        "filename": "1 (108).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.995556652545929,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.3559631407260895,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.3998081684112549,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9749484062194824,
+            "correct": true
+        }
+    },
+    {
+        "index": 15,
+        "filename": "1 (12).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.8238564729690552,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4131442904472351,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.5533896684646606,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.8653908371925354,
+            "correct": true
+        }
+    },
+    {
+        "index": 16,
+        "filename": "1 (17).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9912802577018738,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4440457224845886,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.6196783185005188,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9686901569366455,
+            "correct": true
+        }
+    },
+    {
+        "index": 17,
+        "filename": "1 (24).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9920318126678467,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Phosphorus",
+            "conf": 0.3826567530632019,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Phosphorus",
+            "conf": 0.6443041563034058,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9570060968399048,
+            "correct": true
+        }
+    },
+    {
+        "index": 18,
+        "filename": "1 (28).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9991004467010498,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.7095907330513,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Magnesium",
+            "conf": 0.5314005017280579,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9923883080482483,
+            "correct": true
+        }
+    },
+    {
+        "index": 19,
+        "filename": "1 (35).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9993909597396851,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9959611296653748,
+            "correct": true
+        }
+    },
+    {
+        "index": 20,
+        "filename": "1 (41).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9946107864379883,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9928338527679443,
+            "correct": true
+        }
+    },
+    {
+        "index": 21,
+        "filename": "1 (51).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9978175163269043,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.4200349450111389,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.6176872253417969,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9910037517547607,
+            "correct": true
+        }
+    },
+    {
+        "index": 22,
+        "filename": "1 (6).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9759925603866577,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.4376119077205658,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.5896205306053162,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9805498719215393,
+            "correct": true
+        }
+    },
+    {
+        "index": 23,
+        "filename": "1 (60).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9901060461997986,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9134737253189087,
+            "correct": true
+        }
+    },
+    {
+        "index": 24,
+        "filename": "1 (67).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.6731908917427063,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.7665892243385315,
+            "correct": true
+        }
+    },
+    {
+        "index": 25,
+        "filename": "1 (74).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9912386536598206,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.675703227519989,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.6489965319633484,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9561321139335632,
+            "correct": true
+        }
+    },
+    {
+        "index": 26,
+        "filename": "1 (86).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9986749291419983,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9938574433326721,
+            "correct": true
+        }
+    },
+    {
+        "index": 27,
+        "filename": "1 (89).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9998704195022583,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.5480380654335022,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.6137323379516602,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.9965355396270752,
+            "correct": true
+        }
+    },
+    {
+        "index": 28,
+        "filename": "1 (91).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9350690245628357,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.7585026621818542,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.8769770264625549,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.8962859511375427,
+            "correct": true
+        }
+    },
+    {
+        "index": 29,
+        "filename": "1 (97).jpeg",
+        "true_class": "Magnesium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.949081540107727,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.7339445352554321,
+            "correct": true
+        }
+    },
+    {
+        "index": 30,
+        "filename": "2 (19).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.8825191259384155,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.45753931999206543,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.5827491283416748,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.4449659287929535,
+            "correct": true
+        }
+    },
+    {
+        "index": 31,
+        "filename": "2 (23).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.9716266989707947,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Nitrogen",
+            "conf": 0.6285246014595032,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.7243099212646484,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.6030882000923157,
+            "correct": true
+        }
+    },
+    {
+        "index": 32,
+        "filename": "2 (26).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.9988865256309509,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.45762211084365845,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.4880659282207489,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.9714998602867126,
+            "correct": true
+        }
+    },
+    {
+        "index": 33,
+        "filename": "2 (27).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.9580406546592712,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.46025437116622925,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.5274010300636292,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.7141923904418945,
+            "correct": false
+        }
+    },
+    {
+        "index": 34,
+        "filename": "2 (30).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.9961845278739929,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Nitrogen",
+            "conf": 0.8972904682159424,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.9289495944976807,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.933630645275116,
+            "correct": true
+        }
+    },
+    {
+        "index": 35,
+        "filename": "2 (41).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.9976115226745605,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.6129595041275024,
+            "correct": true
+        }
+    },
+    {
+        "index": 36,
+        "filename": "2 (49).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.9990788698196411,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.9170219898223877,
+            "correct": true
+        }
+    },
+    {
+        "index": 37,
+        "filename": "2 (59).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.9998732805252075,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Nitrogen",
+            "conf": 0.9970816969871521,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.997060239315033,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.8511454463005066,
+            "correct": true
+        }
+    },
+    {
+        "index": 38,
+        "filename": "2 (6).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.9999186992645264,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.9514757394790649,
+            "correct": true
+        }
+    },
+    {
+        "index": 39,
+        "filename": "2 (62).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.992438018321991,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.41730090975761414,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.6991553902626038,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.956759512424469,
+            "correct": true
+        }
+    },
+    {
+        "index": 40,
+        "filename": "2 (72).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.6287091374397278,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4151385426521301,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.5992094874382019,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.5805200338363647,
+            "correct": false
+        }
+    },
+    {
+        "index": 41,
+        "filename": "2 (75).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.9999648332595825,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.6873548626899719,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.9620255827903748,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.9873013496398926,
+            "correct": true
+        }
+    },
+    {
+        "index": 42,
+        "filename": "2 (77).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.9883864521980286,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4492787718772888,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.6567702293395996,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.9870414733886719,
+            "correct": true
+        }
+    },
+    {
+        "index": 43,
+        "filename": "2 (91).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.9988498687744141,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.4487324059009552,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.6012561321258545,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.9795466065406799,
+            "correct": true
+        }
+    },
+    {
+        "index": 44,
+        "filename": "2 (99).jpeg",
+        "true_class": "Nitrogen",
+        "original": {
+            "pred": "Potassium",
+            "conf": 0.4602522850036621,
+            "correct": false
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.43480610847473145,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.6178287267684937,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.5761475563049316,
+            "correct": true
+        }
+    },
+    {
+        "index": 45,
+        "filename": "3 (101).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.9999927282333374,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.9981745481491089,
+            "correct": true
+        }
+    },
+    {
+        "index": 46,
+        "filename": "3 (103).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.5278946757316589,
+            "correct": false
+        },
+        "bg_black": {
+            "pred": "Nitrogen",
+            "conf": 0.8802720308303833,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.6781059503555298,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.5042799115180969,
+            "correct": true
+        }
+    },
+    {
+        "index": 47,
+        "filename": "3 (113).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.99315345287323,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Phosphorus",
+            "conf": 0.46845993399620056,
+            "correct": true
+        },
+        "bg_neutral": {
+            "pred": "Phosphorus",
+            "conf": 0.9007375836372375,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.8070532083511353,
+            "correct": true
+        }
+    },
+    {
+        "index": 48,
+        "filename": "3 (13).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.9997089505195618,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.4533824026584625,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Phosphorus",
+            "conf": 0.493591845035553,
+            "correct": true
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.99967360496521,
+            "correct": true
+        }
+    },
+    {
+        "index": 49,
+        "filename": "3 (18).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.999717652797699,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.9997629523277283,
+            "correct": true
+        }
+    },
+    {
+        "index": 50,
+        "filename": "3 (21).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.9998902082443237,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.9999165534973145,
+            "correct": true
+        }
+    },
+    {
+        "index": 51,
+        "filename": "3 (28).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.9980296492576599,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.4669511914253235,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.6011819243431091,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.9944118857383728,
+            "correct": true
+        }
+    },
+    {
+        "index": 52,
+        "filename": "3 (38).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.9913977384567261,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.9896738529205322,
+            "correct": true
+        }
+    },
+    {
+        "index": 53,
+        "filename": "3 (40).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.9984808564186096,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Nitrogen",
+            "conf": 0.7624207139015198,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.8489782214164734,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.9712950587272644,
+            "correct": true
+        }
+    },
+    {
+        "index": 54,
+        "filename": "3 (42).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.9970687031745911,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Nitrogen",
+            "conf": 0.7263863682746887,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.48148831725120544,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.9622495770454407,
+            "correct": true
+        }
+    },
+    {
+        "index": 55,
+        "filename": "3 (74).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.9818826913833618,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.9859583973884583,
+            "correct": true
+        }
+    },
+    {
+        "index": 56,
+        "filename": "3 (83).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.8830448389053345,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.569283127784729,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.3458464443683624,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.6330931186676025,
+            "correct": true
+        }
+    },
+    {
+        "index": 57,
+        "filename": "3 (84).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.9751210808753967,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.4520978629589081,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.5762062072753906,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.9748411178588867,
+            "correct": true
+        }
+    },
+    {
+        "index": 58,
+        "filename": "3 (85).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.9990656971931458,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.758280873298645,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.6013069748878479,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.998522937297821,
+            "correct": true
+        }
+    },
+    {
+        "index": 59,
+        "filename": "3 (86).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.6041329503059387,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.5660268664360046,
+            "correct": true
+        }
+    },
+    {
+        "index": 60,
+        "filename": "3 (89).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.3873845338821411,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.4832417964935303,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.6344388127326965,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.7624254822731018,
+            "correct": true
+        }
+    },
+    {
+        "index": 61,
+        "filename": "3 (9).jpeg",
+        "true_class": "Phosphorus",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.9998685121536255,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.39330488443374634,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.5714112520217896,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Phosphorus",
+            "conf": 0.9998412132263184,
+            "correct": true
+        }
+    },
+    {
+        "index": 62,
+        "filename": "4 (1).jpeg",
+        "true_class": "Potassium",
+        "original": {
+            "pred": "Magnesium",
+            "conf": 0.9425316452980042,
+            "correct": false
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.6610525250434875,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.5098385214805603,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.918655514717102,
+            "correct": false
+        }
+    },
+    {
+        "index": 63,
+        "filename": "4 (26).jpeg",
+        "true_class": "Potassium",
+        "original": {
+            "pred": "Potassium",
+            "conf": 0.7499725818634033,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Nitrogen",
+            "conf": 0.5927368998527527,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.5221447944641113,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Potassium",
+            "conf": 0.38243910670280457,
+            "correct": true
+        }
+    },
+    {
+        "index": 64,
+        "filename": "4 (32).jpeg",
+        "true_class": "Potassium",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.7663658261299133,
+            "correct": false
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.5041379928588867,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.5661895871162415,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Nitrogen",
+            "conf": 0.7472332119941711,
+            "correct": false
+        }
+    },
+    {
+        "index": 65,
+        "filename": "4 (36).jpeg",
+        "true_class": "Potassium",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.8375926613807678,
+            "correct": false
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.3645536005496979,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Phosphorus",
+            "conf": 0.47621050477027893,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Magnesium",
+            "conf": 0.45717155933380127,
+            "correct": false
+        }
+    },
+    {
+        "index": 66,
+        "filename": "4 (38).jpeg",
+        "true_class": "Potassium",
+        "original": {
+            "pred": "Phosphorus",
+            "conf": 0.5735116004943848,
+            "correct": false
+        },
+        "bg_black": {
+            "pred": "Phosphorus",
+            "conf": 0.45882582664489746,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Phosphorus",
+            "conf": 0.8982277512550354,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Healthy",
+            "conf": 0.58547043800354,
+            "correct": false
+        }
+    },
+    {
+        "index": 67,
+        "filename": "4 (47).jpeg",
+        "true_class": "Potassium",
+        "original": {
+            "pred": "Nitrogen",
+            "conf": 0.5722101926803589,
+            "correct": false
+        },
+        "bg_black": {
+            "pred": "Magnesium",
+            "conf": 0.4520859718322754,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.612368106842041,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Potassium",
+            "conf": 0.452253133058548,
+            "correct": true
+        }
+    },
+    {
+        "index": 68,
+        "filename": "4 (54).jpeg",
+        "true_class": "Potassium",
+        "original": {
+            "pred": "Potassium",
+            "conf": 0.9290884733200073,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Nitrogen",
+            "conf": 0.9432218074798584,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Nitrogen",
+            "conf": 0.9041096568107605,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Potassium",
+            "conf": 0.4631321132183075,
+            "correct": true
+        }
+    },
+    {
+        "index": 69,
+        "filename": "4 (7).jpeg",
+        "true_class": "Potassium",
+        "original": {
+            "pred": "Potassium",
+            "conf": 0.9958036541938782,
+            "correct": true
+        },
+        "bg_black": {
+            "pred": "Healthy",
+            "conf": 0.7231770157814026,
+            "correct": false
+        },
+        "bg_neutral": {
+            "pred": "Healthy",
+            "conf": 0.8556183576583862,
+            "correct": false
+        },
+        "leaf_disrupted": {
+            "pred": "Potassium",
+            "conf": 0.9732470512390137,
+            "correct": true
+        }
+    }
+]

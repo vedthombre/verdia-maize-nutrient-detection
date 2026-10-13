@@ -1,0 +1,20 @@
+# backend/requirements.txt
+# ========================
+# Dependencies for the FastAPI inference backend.
+# These complement the existing ML environment (torch, torchvision, pillow)
+# which should already be installed in the project virtual environment.
+
+# Web framework and ASGI server
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+
+# Required for multipart/form-data file uploads in FastAPI
+python-multipart>=0.0.9
+
+# Image processing (likely already installed; pinned for clarity)
+pillow>=10.0.0
+
+# PyTorch and torchvision (already installed in the ML environment)
+# Listed here for completeness — do NOT reinstall if already present.
+torch>=2.0.0
+torchvision>=0.15.0

@@ -1,0 +1,28 @@
+{
+  "model": "ResNet18",
+  "pretrained": "IMAGENET1K_V1",
+  "num_classes": 5,
+  "class_names": [
+    "Healthy",
+    "Magnesium",
+    "Nitrogen",
+    "Phosphorus",
+    "Potassium"
+  ],
+  "freeze_backbone": false,
+  "seed": 42,
+  "batch_size": 32,
+  "num_epochs_max": 40,
+  "patience": 8,
+  "lr_backbone": 5e-05,
+  "lr_head": 0.001,
+  "weight_decay": 0.0001,
+  "criterion": "CrossEntropyLoss (no class weights)",
+  "optimiser": "Adam",
+  "train_transform": "RandomResizedCrop(224, scale=(0.8,1.0), BILINEAR), RandomHorizontalFlip(p=0.5), RandomRotation(15), ColorJitter(b=0.15, c=0.15, s=0.10, h=0.02), ToTensor, Normalize(ImageNet)",
+  "val_transform": "Resize(256, BILINEAR), CenterCrop(224), ToTensor, Normalize(ImageNet)",
+  "best_epoch": 9,
+  "best_val_loss": 0.33193432593691174,
+  "total_train_time_seconds": 608.1426067352295,
+  "device": "cpu"
+}

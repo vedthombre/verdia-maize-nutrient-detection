@@ -1,0 +1,73 @@
+{
+  "svm": [
+    {
+      "C": 1,
+      "gamma": "scale",
+      "val_accuracy": 0.8406
+    },
+    {
+      "C": 5,
+      "gamma": "scale",
+      "val_accuracy": 0.8696
+    },
+    {
+      "C": 10,
+      "gamma": "scale",
+      "val_accuracy": 0.8696
+    },
+    {
+      "C": 50,
+      "gamma": "scale",
+      "val_accuracy": 0.8696
+    }
+  ],
+  "random_forest": [
+    {
+      "n_estimators": 100,
+      "max_depth": "None",
+      "val_accuracy": 0.8261
+    },
+    {
+      "n_estimators": 300,
+      "max_depth": "None",
+      "val_accuracy": 0.8551
+    },
+    {
+      "n_estimators": 500,
+      "max_depth": "None",
+      "val_accuracy": 0.8261
+    },
+    {
+      "n_estimators": 500,
+      "max_depth": "20",
+      "val_accuracy": 0.8261
+    }
+  ],
+  "knn": [
+    {
+      "n_neighbors": 3,
+      "metric": "cosine",
+      "val_accuracy": 0.7681
+    },
+    {
+      "n_neighbors": 5,
+      "metric": "cosine",
+      "val_accuracy": 0.7681
+    },
+    {
+      "n_neighbors": 7,
+      "metric": "cosine",
+      "val_accuracy": 0.7826
+    },
+    {
+      "n_neighbors": 7,
+      "metric": "euclidean",
+      "val_accuracy": 0.7681
+    },
+    {
+      "n_neighbors": 11,
+      "metric": "cosine",
+      "val_accuracy": 0.7681
+    }
+  ]
+}

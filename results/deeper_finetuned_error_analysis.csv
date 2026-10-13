@@ -1,0 +1,12 @@
+image_path,true_class,predicted_class,predicted_probability,true_class_probability,second_class,second_class_probability,correct
+Dataset\Healthy\65.jpeg,Healthy,Magnesium,0.4887,0.3124,Healthy,0.3124,False
+Dataset\Nitrogen\2 (23).jpeg,Nitrogen,Magnesium,0.4847,0.3677,Nitrogen,0.3677,False
+Dataset\Phosphorus\3 (103).jpeg,Phosphorus,Nitrogen,0.6928,0.2539,Phosphorus,0.2539,False
+Dataset\Phosphorus\3 (40).jpeg,Phosphorus,Nitrogen,0.4979,0.4948,Phosphorus,0.4948,False
+Dataset\Phosphorus\3 (42).jpeg,Phosphorus,Nitrogen,0.4174,0.3681,Phosphorus,0.3681,False
+Dataset\Phosphorus\3 (86).jpeg,Phosphorus,Magnesium,0.7715,0.1371,Phosphorus,0.1371,False
+Dataset\Phosphorus\3 (89).jpeg,Phosphorus,Nitrogen,0.9950,0.0011,Potassium,0.0037,False
+Dataset\Potassium\4 (1).jpeg,Potassium,Magnesium,0.7408,0.0749,Nitrogen,0.1224,False
+Dataset\Potassium\4 (32).jpeg,Potassium,Nitrogen,0.4065,0.2971,Potassium,0.2971,False
+Dataset\Potassium\4 (38).jpeg,Potassium,Phosphorus,0.8900,0.0116,Nitrogen,0.0463,False
+Dataset\Potassium\4 (54).jpeg,Potassium,Nitrogen,0.9335,0.0630,Potassium,0.0630,False

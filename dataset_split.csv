@@ -1,0 +1,464 @@
+image_path,class_name,split
+Dataset\Healthy\2.jpeg,Healthy,test
+Dataset\Healthy\29.jpeg,Healthy,test
+Dataset\Healthy\30.jpeg,Healthy,test
+Dataset\Healthy\31.jpeg,Healthy,test
+Dataset\Healthy\36.jpeg,Healthy,test
+Dataset\Healthy\43.jpeg,Healthy,test
+Dataset\Healthy\56.jpeg,Healthy,test
+Dataset\Healthy\64.jpeg,Healthy,test
+Dataset\Healthy\65.jpeg,Healthy,test
+Dataset\Healthy\69.jpeg,Healthy,test
+Dataset\Healthy\71.jpeg,Healthy,test
+Dataset\Magnesium\1 (1).jpeg,Magnesium,test
+Dataset\Magnesium\1 (102).jpeg,Magnesium,test
+Dataset\Magnesium\1 (106).jpeg,Magnesium,test
+Dataset\Magnesium\1 (108).jpeg,Magnesium,test
+Dataset\Magnesium\1 (12).jpeg,Magnesium,test
+Dataset\Magnesium\1 (17).jpeg,Magnesium,test
+Dataset\Magnesium\1 (24).jpeg,Magnesium,test
+Dataset\Magnesium\1 (28).jpeg,Magnesium,test
+Dataset\Magnesium\1 (35).jpeg,Magnesium,test
+Dataset\Magnesium\1 (41).jpeg,Magnesium,test
+Dataset\Magnesium\1 (51).jpeg,Magnesium,test
+Dataset\Magnesium\1 (6).jpeg,Magnesium,test
+Dataset\Magnesium\1 (60).jpeg,Magnesium,test
+Dataset\Magnesium\1 (67).jpeg,Magnesium,test
+Dataset\Magnesium\1 (74).jpeg,Magnesium,test
+Dataset\Magnesium\1 (86).jpeg,Magnesium,test
+Dataset\Magnesium\1 (89).jpeg,Magnesium,test
+Dataset\Magnesium\1 (91).jpeg,Magnesium,test
+Dataset\Magnesium\1 (97).jpeg,Magnesium,test
+Dataset\Nitrogen\2 (19).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (23).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (26).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (27).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (30).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (41).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (49).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (59).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (6).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (62).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (72).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (75).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (77).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (91).jpeg,Nitrogen,test
+Dataset\Nitrogen\2 (99).jpeg,Nitrogen,test
+Dataset\Phosphorus\3 (101).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (103).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (113).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (13).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (18).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (21).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (28).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (38).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (40).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (42).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (74).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (83).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (84).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (85).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (86).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (89).jpeg,Phosphorus,test
+Dataset\Phosphorus\3 (9).jpeg,Phosphorus,test
+Dataset\Potassium\4 (1).jpeg,Potassium,test
+Dataset\Potassium\4 (26).jpeg,Potassium,test
+Dataset\Potassium\4 (32).jpeg,Potassium,test
+Dataset\Potassium\4 (36).jpeg,Potassium,test
+Dataset\Potassium\4 (38).jpeg,Potassium,test
+Dataset\Potassium\4 (47).jpeg,Potassium,test
+Dataset\Potassium\4 (54).jpeg,Potassium,test
+Dataset\Potassium\4 (7).jpeg,Potassium,test
+Dataset\Healthy\1.jpeg,Healthy,train
+Dataset\Healthy\12.jpeg,Healthy,train
+Dataset\Healthy\13.jpeg,Healthy,train
+Dataset\Healthy\14.jpeg,Healthy,train
+Dataset\Healthy\15.jpeg,Healthy,train
+Dataset\Healthy\16.jpeg,Healthy,train
+Dataset\Healthy\17.jpeg,Healthy,train
+Dataset\Healthy\18.jpeg,Healthy,train
+Dataset\Healthy\19.jpeg,Healthy,train
+Dataset\Healthy\20.jpeg,Healthy,train
+Dataset\Healthy\21.jpeg,Healthy,train
+Dataset\Healthy\23.jpeg,Healthy,train
+Dataset\Healthy\24.jpeg,Healthy,train
+Dataset\Healthy\25.jpeg,Healthy,train
+Dataset\Healthy\26.jpeg,Healthy,train
+Dataset\Healthy\27.jpeg,Healthy,train
+Dataset\Healthy\3.jpeg,Healthy,train
+Dataset\Healthy\32.jpeg,Healthy,train
+Dataset\Healthy\33.jpeg,Healthy,train
+Dataset\Healthy\34.jpeg,Healthy,train
+Dataset\Healthy\35.jpeg,Healthy,train
+Dataset\Healthy\37.jpeg,Healthy,train
+Dataset\Healthy\38.jpeg,Healthy,train
+Dataset\Healthy\4.jpeg,Healthy,train
+Dataset\Healthy\40.jpeg,Healthy,train
+Dataset\Healthy\41.jpeg,Healthy,train
+Dataset\Healthy\42.jpeg,Healthy,train
+Dataset\Healthy\44.jpeg,Healthy,train
+Dataset\Healthy\45.jpeg,Healthy,train
+Dataset\Healthy\46.jpeg,Healthy,train
+Dataset\Healthy\47.jpeg,Healthy,train
+Dataset\Healthy\48.jpeg,Healthy,train
+Dataset\Healthy\5.jpeg,Healthy,train
+Dataset\Healthy\50.jpeg,Healthy,train
+Dataset\Healthy\51.jpeg,Healthy,train
+Dataset\Healthy\52.jpeg,Healthy,train
+Dataset\Healthy\54.jpeg,Healthy,train
+Dataset\Healthy\55.jpeg,Healthy,train
+Dataset\Healthy\58.jpeg,Healthy,train
+Dataset\Healthy\59.jpeg,Healthy,train
+Dataset\Healthy\6.jpeg,Healthy,train
+Dataset\Healthy\60.jpeg,Healthy,train
+Dataset\Healthy\61.jpeg,Healthy,train
+Dataset\Healthy\62.jpeg,Healthy,train
+Dataset\Healthy\63.jpeg,Healthy,train
+Dataset\Healthy\66.jpeg,Healthy,train
+Dataset\Healthy\68.jpeg,Healthy,train
+Dataset\Healthy\7.jpeg,Healthy,train
+Dataset\Healthy\72.jpeg,Healthy,train
+Dataset\Healthy\8.jpeg,Healthy,train
+Dataset\Healthy\9.jpeg,Healthy,train
+Dataset\Magnesium\1 (10).jpeg,Magnesium,train
+Dataset\Magnesium\1 (100).jpeg,Magnesium,train
+Dataset\Magnesium\1 (101).jpeg,Magnesium,train
+Dataset\Magnesium\1 (103).jpeg,Magnesium,train
+Dataset\Magnesium\1 (107).jpeg,Magnesium,train
+Dataset\Magnesium\1 (11).jpeg,Magnesium,train
+Dataset\Magnesium\1 (110).jpeg,Magnesium,train
+Dataset\Magnesium\1 (112).jpeg,Magnesium,train
+Dataset\Magnesium\1 (113).jpeg,Magnesium,train
+Dataset\Magnesium\1 (114).jpeg,Magnesium,train
+Dataset\Magnesium\1 (115).jpeg,Magnesium,train
+Dataset\Magnesium\1 (116).jpeg,Magnesium,train
+Dataset\Magnesium\1 (117).jpeg,Magnesium,train
+Dataset\Magnesium\1 (118).jpeg,Magnesium,train
+Dataset\Magnesium\1 (119).jpeg,Magnesium,train
+Dataset\Magnesium\1 (120).jpeg,Magnesium,train
+Dataset\Magnesium\1 (122).jpeg,Magnesium,train
+Dataset\Magnesium\1 (14).jpeg,Magnesium,train
+Dataset\Magnesium\1 (15).jpeg,Magnesium,train
+Dataset\Magnesium\1 (16).jpeg,Magnesium,train
+Dataset\Magnesium\1 (18).jpeg,Magnesium,train
+Dataset\Magnesium\1 (2).jpeg,Magnesium,train
+Dataset\Magnesium\1 (20).jpeg,Magnesium,train
+Dataset\Magnesium\1 (21).jpeg,Magnesium,train
+Dataset\Magnesium\1 (22).jpeg,Magnesium,train
+Dataset\Magnesium\1 (23).jpeg,Magnesium,train
+Dataset\Magnesium\1 (25).jpeg,Magnesium,train
+Dataset\Magnesium\1 (26).jpeg,Magnesium,train
+Dataset\Magnesium\1 (27).jpeg,Magnesium,train
+Dataset\Magnesium\1 (29).jpeg,Magnesium,train
+Dataset\Magnesium\1 (3).jpeg,Magnesium,train
+Dataset\Magnesium\1 (30).jpeg,Magnesium,train
+Dataset\Magnesium\1 (31).jpeg,Magnesium,train
+Dataset\Magnesium\1 (32).jpeg,Magnesium,train
+Dataset\Magnesium\1 (33).jpeg,Magnesium,train
+Dataset\Magnesium\1 (34).jpeg,Magnesium,train
+Dataset\Magnesium\1 (36).jpeg,Magnesium,train
+Dataset\Magnesium\1 (37).jpeg,Magnesium,train
+Dataset\Magnesium\1 (38).jpeg,Magnesium,train
+Dataset\Magnesium\1 (39).jpeg,Magnesium,train
+Dataset\Magnesium\1 (4).jpeg,Magnesium,train
+Dataset\Magnesium\1 (40).jpeg,Magnesium,train
+Dataset\Magnesium\1 (42).jpeg,Magnesium,train
+Dataset\Magnesium\1 (43).jpeg,Magnesium,train
+Dataset\Magnesium\1 (45).jpeg,Magnesium,train
+Dataset\Magnesium\1 (47).jpeg,Magnesium,train
+Dataset\Magnesium\1 (48).jpeg,Magnesium,train
+Dataset\Magnesium\1 (49).jpeg,Magnesium,train
+Dataset\Magnesium\1 (5).jpeg,Magnesium,train
+Dataset\Magnesium\1 (50).jpeg,Magnesium,train
+Dataset\Magnesium\1 (54).jpeg,Magnesium,train
+Dataset\Magnesium\1 (55).jpeg,Magnesium,train
+Dataset\Magnesium\1 (56).jpeg,Magnesium,train
+Dataset\Magnesium\1 (57).jpeg,Magnesium,train
+Dataset\Magnesium\1 (58).jpeg,Magnesium,train
+Dataset\Magnesium\1 (59).jpeg,Magnesium,train
+Dataset\Magnesium\1 (62).jpeg,Magnesium,train
+Dataset\Magnesium\1 (63).jpeg,Magnesium,train
+Dataset\Magnesium\1 (65).jpeg,Magnesium,train
+Dataset\Magnesium\1 (66).jpeg,Magnesium,train
+Dataset\Magnesium\1 (69).jpeg,Magnesium,train
+Dataset\Magnesium\1 (7).jpeg,Magnesium,train
+Dataset\Magnesium\1 (70).jpeg,Magnesium,train
+Dataset\Magnesium\1 (71).jpeg,Magnesium,train
+Dataset\Magnesium\1 (72).jpeg,Magnesium,train
+Dataset\Magnesium\1 (73).jpeg,Magnesium,train
+Dataset\Magnesium\1 (75).jpeg,Magnesium,train
+Dataset\Magnesium\1 (76).jpeg,Magnesium,train
+Dataset\Magnesium\1 (77).jpeg,Magnesium,train
+Dataset\Magnesium\1 (78).jpeg,Magnesium,train
+Dataset\Magnesium\1 (79).jpeg,Magnesium,train
+Dataset\Magnesium\1 (80).jpeg,Magnesium,train
+Dataset\Magnesium\1 (82).jpeg,Magnesium,train
+Dataset\Magnesium\1 (83).jpeg,Magnesium,train
+Dataset\Magnesium\1 (84).jpeg,Magnesium,train
+Dataset\Magnesium\1 (85).jpeg,Magnesium,train
+Dataset\Magnesium\1 (87).jpeg,Magnesium,train
+Dataset\Magnesium\1 (9).jpeg,Magnesium,train
+Dataset\Magnesium\1 (90).jpeg,Magnesium,train
+Dataset\Magnesium\1 (92).jpeg,Magnesium,train
+Dataset\Magnesium\1 (93).jpeg,Magnesium,train
+Dataset\Magnesium\1 (94).jpeg,Magnesium,train
+Dataset\Magnesium\1 (95).jpeg,Magnesium,train
+Dataset\Magnesium\1 (96).jpeg,Magnesium,train
+Dataset\Magnesium\1 (98).jpeg,Magnesium,train
+Dataset\Magnesium\1 (99).jpeg,Magnesium,train
+Dataset\Nitrogen\2 (12).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (13).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (14).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (15).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (16).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (17).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (18).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (2).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (20).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (21).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (22).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (25).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (28).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (29).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (3).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (31).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (32).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (33).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (34).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (35).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (36).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (37).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (39).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (4).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (40).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (42).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (44).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (45).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (46).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (47).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (48).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (5).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (50).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (51).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (52).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (53).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (54).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (55).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (56).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (58).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (60).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (61).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (63).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (64).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (65).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (66).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (67).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (68).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (69).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (7).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (73).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (74).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (76).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (79).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (8).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (80).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (82).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (83).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (84).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (85).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (86).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (87).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (88).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (89).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (9).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (93).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (94).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (95).jpeg,Nitrogen,train
+Dataset\Nitrogen\2 (98).jpeg,Nitrogen,train
+Dataset\Phosphorus\3 (1).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (10).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (100).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (102).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (104).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (106).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (107).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (108).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (109).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (11).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (110).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (111).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (112).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (12).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (14).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (17).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (19).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (2).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (22).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (24).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (25).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (26).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (27).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (29).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (31).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (32).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (33).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (34).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (35).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (37).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (39).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (41).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (43).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (44).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (46).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (47).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (48).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (49).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (50).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (52).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (53).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (55).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (56).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (57).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (58).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (6).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (60).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (61).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (62).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (63).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (64).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (66).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (67).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (68).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (69).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (7).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (70).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (71).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (73).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (75).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (76).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (77).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (78).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (79).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (8).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (80).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (81).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (82).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (87).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (88).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (90).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (91).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (92).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (93).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (94).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (96).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (97).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (98).jpeg,Phosphorus,train
+Dataset\Phosphorus\3 (99).jpeg,Phosphorus,train
+Dataset\Potassium\4 (10).jpeg,Potassium,train
+Dataset\Potassium\4 (11).jpeg,Potassium,train
+Dataset\Potassium\4 (12).jpeg,Potassium,train
+Dataset\Potassium\4 (13).jpeg,Potassium,train
+Dataset\Potassium\4 (14).jpeg,Potassium,train
+Dataset\Potassium\4 (15).jpeg,Potassium,train
+Dataset\Potassium\4 (16).jpeg,Potassium,train
+Dataset\Potassium\4 (18).jpeg,Potassium,train
+Dataset\Potassium\4 (19).jpeg,Potassium,train
+Dataset\Potassium\4 (20).jpeg,Potassium,train
+Dataset\Potassium\4 (21).jpeg,Potassium,train
+Dataset\Potassium\4 (22).jpeg,Potassium,train
+Dataset\Potassium\4 (23).jpeg,Potassium,train
+Dataset\Potassium\4 (25).jpeg,Potassium,train
+Dataset\Potassium\4 (27).jpeg,Potassium,train
+Dataset\Potassium\4 (28).jpeg,Potassium,train
+Dataset\Potassium\4 (29).jpeg,Potassium,train
+Dataset\Potassium\4 (30).jpeg,Potassium,train
+Dataset\Potassium\4 (33).jpeg,Potassium,train
+Dataset\Potassium\4 (35).jpeg,Potassium,train
+Dataset\Potassium\4 (37).jpeg,Potassium,train
+Dataset\Potassium\4 (39).jpeg,Potassium,train
+Dataset\Potassium\4 (40).jpeg,Potassium,train
+Dataset\Potassium\4 (41).jpeg,Potassium,train
+Dataset\Potassium\4 (43).jpeg,Potassium,train
+Dataset\Potassium\4 (44).jpeg,Potassium,train
+Dataset\Potassium\4 (45).jpeg,Potassium,train
+Dataset\Potassium\4 (46).jpeg,Potassium,train
+Dataset\Potassium\4 (48).jpeg,Potassium,train
+Dataset\Potassium\4 (5).jpeg,Potassium,train
+Dataset\Potassium\4 (50).jpeg,Potassium,train
+Dataset\Potassium\4 (51).jpeg,Potassium,train
+Dataset\Potassium\4 (52).jpeg,Potassium,train
+Dataset\Potassium\4 (53).jpeg,Potassium,train
+Dataset\Potassium\4 (55).jpeg,Potassium,train
+Dataset\Potassium\4 (56).jpeg,Potassium,train
+Dataset\Potassium\4 (6).jpeg,Potassium,train
+Dataset\Potassium\4 (8).jpeg,Potassium,train
+Dataset\Potassium\4 (9).jpeg,Potassium,train
+Dataset\Healthy\10.jpeg,Healthy,val
+Dataset\Healthy\11.jpeg,Healthy,val
+Dataset\Healthy\22.jpeg,Healthy,val
+Dataset\Healthy\28.jpeg,Healthy,val
+Dataset\Healthy\39.jpeg,Healthy,val
+Dataset\Healthy\49.jpeg,Healthy,val
+Dataset\Healthy\53.jpeg,Healthy,val
+Dataset\Healthy\57.jpeg,Healthy,val
+Dataset\Healthy\67.jpeg,Healthy,val
+Dataset\Healthy\70.jpeg,Healthy,val
+Dataset\Magnesium\1 (104).jpeg,Magnesium,val
+Dataset\Magnesium\1 (105).jpeg,Magnesium,val
+Dataset\Magnesium\1 (109).jpeg,Magnesium,val
+Dataset\Magnesium\1 (111).jpeg,Magnesium,val
+Dataset\Magnesium\1 (121).jpeg,Magnesium,val
+Dataset\Magnesium\1 (123).jpeg,Magnesium,val
+Dataset\Magnesium\1 (13).jpeg,Magnesium,val
+Dataset\Magnesium\1 (19).jpeg,Magnesium,val
+Dataset\Magnesium\1 (44).jpeg,Magnesium,val
+Dataset\Magnesium\1 (46).jpeg,Magnesium,val
+Dataset\Magnesium\1 (52).jpeg,Magnesium,val
+Dataset\Magnesium\1 (53).jpeg,Magnesium,val
+Dataset\Magnesium\1 (61).jpeg,Magnesium,val
+Dataset\Magnesium\1 (64).jpeg,Magnesium,val
+Dataset\Magnesium\1 (68).jpeg,Magnesium,val
+Dataset\Magnesium\1 (8).jpeg,Magnesium,val
+Dataset\Magnesium\1 (81).jpeg,Magnesium,val
+Dataset\Magnesium\1 (88).jpeg,Magnesium,val
+Dataset\Nitrogen\2 (1).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (10).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (11).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (24).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (38).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (43).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (57).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (70).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (71).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (78).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (81).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (90).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (92).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (96).jpeg,Nitrogen,val
+Dataset\Nitrogen\2 (97).jpeg,Nitrogen,val
+Dataset\Phosphorus\3 (105).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (15).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (16).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (20).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (23).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (3).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (30).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (36).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (4).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (45).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (5).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (51).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (54).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (59).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (65).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (72).jpeg,Phosphorus,val
+Dataset\Phosphorus\3 (95).jpeg,Phosphorus,val
+Dataset\Potassium\4 (17).jpeg,Potassium,val
+Dataset\Potassium\4 (2).jpeg,Potassium,val
+Dataset\Potassium\4 (24).jpeg,Potassium,val
+Dataset\Potassium\4 (3).jpeg,Potassium,val
+Dataset\Potassium\4 (31).jpeg,Potassium,val
+Dataset\Potassium\4 (34).jpeg,Potassium,val
+Dataset\Potassium\4 (4).jpeg,Potassium,val
+Dataset\Potassium\4 (42).jpeg,Potassium,val
+Dataset\Potassium\4 (49).jpeg,Potassium,val
